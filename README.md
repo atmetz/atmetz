@@ -1,5 +1,5 @@
 I am a QA Engineer with 20+ years of experience.  
-I am currently backend development with Python, Go, and SQL on boot.dev  
+I am currently learning backend development with Python, Go, and SQL on boot.dev  
 
 <!--
 **atmetz/atmetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
