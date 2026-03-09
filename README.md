@@ -1,5 +1,5 @@
-I am a QA Engineer with 20+ years of experience.  
-I am currently learning backend development with Python, Go, and SQL on boot.dev  
+I am a QA Engineer with 20+ years of experience. I have decided I want to start making/fixing bugs instead of just finding them.
+I have always enjoyed the puzzle of programming and bringing ideas to life. I started writing code again while taking an online course in Data Analytics and rediscovered how satisfying it is.
 
 <!--
 **atmetz/atmetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
